@@ -4,8 +4,8 @@
 $ErrorActionPreference = 'Stop'
 
 # Cambia esto por tu usuario real
-$githubUser = 'TU_USUARIO'
-$repoName = 'itp-irpf-calculator'
+$githubUser = 'SoyRode'
+$repoName = 'rode'
 $projectDir = 'C:\AppCelulares\itp_irpf_calculator'
 
 Write-Host 'Iniciando script de carga a GitHub...' -ForegroundColor Cyan
